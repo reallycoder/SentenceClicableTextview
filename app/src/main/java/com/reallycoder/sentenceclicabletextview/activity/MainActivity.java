@@ -18,6 +18,10 @@ import com.reallycoder.sentenceclicabletextview.bean.RawContent;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * author：armyjust on 2016/11/2 00:29
+ * email：armyjust@126.com
+ */
 public class MainActivity extends AppCompatActivity {
     private List<RawContent> rawContents;
 
